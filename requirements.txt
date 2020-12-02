@@ -1,0 +1,4 @@
+avro
+fastavro
+pytest
+six
