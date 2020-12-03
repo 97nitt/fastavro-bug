@@ -17,3 +17,6 @@ To run it:
 $ pip install -r requirements.txt
 $ pytest -v
 ```
+
+`fastavro` issue: [https://github.com/fastavro/fastavro/issues/488](https://github.com/fastavro/fastavro/issues/488)
+
